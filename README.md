@@ -55,11 +55,11 @@ It allows users to explore, purchase, and manage their collection of books with 
 
 | Login Screen | Home | Favorites |
 |--------------|------|-----------|
-| ![Login](./screenshots/auth.jpg) | ![Home](./screenshots/home.jpg) | ![Favorites](./screenshots/fav.jpg) |
+| <img src="./screenshots/Auth.jpg" width="250"/> | <img src="./screenshots/home.jpg" width="250"/> | <img src="./screenshots/fav.jpg" width="250"/> |
 
 | Profile & Settings | Bookstore | Explore |
 |---------------------|-----------|---------|
-| ![Profile](./screenshots/profile.jpg) | ![Bookstore](./screenshots/home2.jpg) | ![Explore](./screenshots/en.jpg) |
+| <img src="./screenshots/profile.jpg" width="250"/> | <img src="./screenshots/home2.jpg" width="250"/> | <img src="./screenshots/en.jpg" width="250"/> |
 
 ---
 
