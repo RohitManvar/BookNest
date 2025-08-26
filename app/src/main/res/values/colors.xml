@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryVariant">#1565C0</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Background Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="search_background">#2C2C2C</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_tertiary">#808080</color>
+    <color name="text_primary_light">#000000</color>
+    <color name="text_secondary_light">#666666</color>
+
+    <!-- Tab Colors -->
+    <color name="tab_indicator">#1976D2</color>
+    <color name="tab_selected">#FFFFFF</color>
+    <color name="tab_unselected">#B3B3B3</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_background">#1E1E1E</color>
+    <color name="bottom_nav_selected">#1976D2</color>
+    <color name="bottom_nav_unselected">#B3B3B3</color>
+
+    <!-- Surface Colors -->
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_light">#F5F5F5</color>
+    <color name="surface_variant">#2C2C2C</color>
+
+    <!-- Divider Colors -->
+    <color name="divider_dark">#333333</color>
+    <color name="divider_light">#E0E0E0</color>
+
+    <!-- Ripple Colors -->
+    <color name="ripple_dark">#40FFFFFF</color>
+    <color name="ripple_light">#20000000</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary">#1976D2</color>
+    <color name="button_primary_disabled">#4D1976D2</color>
+    <color name="button_secondary">#2C2C2C</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+
+    <!-- Overlay Colors -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+    <!-- Additional colors for authentication -->
+    <color name="error_color">#CF6679</color>
+    <color name="success_color">#4CAF50</color>
+
+    <!-- Legacy colors -->
+    <color name="purple_500">#1976D2</color>
+    <color name="black">#000000</color>
+</resources>

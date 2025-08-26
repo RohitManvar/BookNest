@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_xlarge">24dp</dimen>
+    <dimen name="spacing_xxlarge">32dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+
+    <!-- Card dimensions -->
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_stroke_width">0dp</dimen>
+
+    <!-- Search bar dimensions -->
+    <dimen name="search_bar_height">48dp</dimen>
+    <dimen name="search_bar_corner_radius">24dp</dimen>
+    <dimen name="search_bar_elevation">2dp</dimen>
+
+    <!-- Button dimensions -->
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+
+    <!-- Icon dimensions -->
+    <dimen name="icon_size_small">16dp</dimen>
+    <dimen name="icon_size_medium">24dp</dimen>
+    <dimen name="icon_size_large">32dp</dimen>
+
+    <!-- Book cover dimensions -->
+    <dimen name="book_cover_width_small">60dp</dimen>
+    <dimen name="book_cover_height_small">80dp</dimen>
+    <dimen name="book_cover_width_medium">120dp</dimen>
+    <dimen name="book_cover_height_medium">160dp</dimen>
+    <dimen name="book_cover_width_large">140dp</dimen>
+    <dimen name="book_cover_height_large">180dp</dimen>
+
+    <!-- Current reading card dimensions -->
+    <dimen name="current_reading_card_width">280dp</dimen>
+    <dimen name="current_reading_card_height">120dp</dimen>
+
+    <!-- Book card dimensions -->
+    <dimen name="book_card_width">140dp</dimen>
+    <dimen name="book_card_corner_radius">8dp</dimen>
+
+    <!-- Progress bar dimensions -->
+    <dimen name="progress_bar_height">4dp</dimen>
+    <dimen name="progress_bar_corner_radius">2dp</dimen>
+
+    <!-- Bottom navigation -->
+    <dimen name="bottom_nav_height">56dp</dimen>
+    <dimen name="bottom_nav_elevation">8dp</dimen>
+
+    <!-- Tab layout -->
+    <dimen name="tab_indicator_height">3dp</dimen>
+    <dimen name="tab_min_width">90dp</dimen>
+
+    <!-- Toolbar -->
+    <dimen name="toolbar_height">56dp</dimen>
+
+    <!-- Explore cards -->
+    <dimen name="explore_card_height">80dp</dimen>
+    <dimen name="explore_card_corner_radius">12dp</dimen>
+
+    <!-- Section spacing */
+    <dimen name="section_spacing">8dp</dimen>
+    <dimen name="section_margin_vertical">16dp</dimen>
+    <dimen name="section_margin_horizontal">16dp</dimen>
+
+    <!- Content padding */
+    <dimen name="content_padding_bottom">100dp</dimen>
+    <dimen name="content_padding_top">16dp</dimen>
+
+    <!- Ripple effect */
+    <dimen name="ripple_radius">24dp</dimen>
+
+    <!- Elevation levels -->
+    <dimen name="elevation_card">2dp</dimen>
+    <dimen name="elevation_button">2dp</dimen>
+    <dimen name="elevation_search_bar">2dp</dimen>
+    <dimen name="elevation_app_bar">4dp</dimen>
+    <dimen name="elevation_bottom_nav">8dp</dimen>
+    <dimen name="elevation_dialog">24dp</dimen>
+
+</resources>
