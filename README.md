@@ -67,7 +67,7 @@ It allows users to explore, purchase, and manage their collection of books with 
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/booknest-android.git
+   git clone https://github.com/RohitManvar/booknest-android.git
    cd booknest-android
    
    Open project in Android Studio
